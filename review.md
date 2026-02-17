@@ -14,7 +14,7 @@ Review of the five template pages in `src/pages/templates/`: **Techstartup.jsx**
 
 ---
 
-## 2. Commented-out code
+## 2. Remove commented code
 
 ### WineTrader.jsx (lines 70–71)
 - A `<div>` for what looks like a caption/label is commented out above the second image block. Either remove it or document why it’s kept (e.g. “alternative layout”).

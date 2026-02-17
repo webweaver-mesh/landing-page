@@ -90,9 +90,12 @@ landing-page/
 
 ## Conventions and guidelines
 
-For consistent formatting and structure (e.g. when using different editors or AI agents), see **[guidelines.md](./guidelines.md)**. It covers:
+For consistent formatting and structure, see **[guidelines.md](./guidelines.md)**. 
+It covers:
 
 - Tech stack and file naming
 - React/JSX and Tailwind usage
 - Routing and sample template patterns
 - Checklist for new pages and features
+
+For notable changes and optimizations or optimizations, see **[review.md](./review.md)**
