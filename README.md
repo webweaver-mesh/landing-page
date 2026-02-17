@@ -2,6 +2,8 @@
 
 Landing page built with **React**, **Tailwind CSS**, and **Vite**. Includes a marketing home, pricing/plan flows (Starter, Pro, Business), and sample template pages (Theater, Wine Trader, Fashion Show, Techstartup, Retro).
 
+![laPlace landing page](assets/home-screenshot.png)
+
 ---
 
 ## Getting started
@@ -40,6 +42,8 @@ landing-page/
 ├── index.html
 ├── package.json
 ├── vite.config.js
+├── assets/               # Screenshots and static assets for docs
+│   └── home-screenshot.png
 ├── tailwind.config.cjs
 ├── postcss.config.cjs
 ├── README.md
